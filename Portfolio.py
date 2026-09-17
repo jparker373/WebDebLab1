@@ -39,13 +39,13 @@ def education_section(education_data, course_data):
 
     st.header("Education")
 
-    st.subheader(f"{education_data['Georgia Institute of Technology']}")
+    st.subheader(f"{education_data['Institution']}")
 
-    st.write(f"**Degree:** {education_data['Bachelor of Industrial and Systems Engineering']}")
+    st.write(f"**Degree:** {education_data['Degree']}")
 
-    st.write(f"**Graduation Date:** {education_data['May 2030']}")
+    st.write(f"**Graduation Date:** {education_data['Graduation Date']}")
 
-    st.write(f"**GPA:** {education_data['4.0']}")
+    st.write(f"**GPA:** {education_data['GPA']}")
 
 
     st.subheader("Coursework")
