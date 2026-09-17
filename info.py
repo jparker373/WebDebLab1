@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Images/profile.jpeg"
+profile_picture = "Images/profile1.jpeg"
 about_me = "Hi! My name is Jessica Parker. I am a student at Georgia Tech studying Industrial Engineering."
 
 
