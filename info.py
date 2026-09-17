@@ -3,7 +3,7 @@
 
 #CHANGE BELOW
 profile_picture = "Images/profile.jpeg"
-about_me = "I'm SpongeBobe Square Pants. I work at the Krusty Krab and I make fantastic Krabby Patties. "
+about_me = "Hi! My name is Jessica Parker. I am a student at Georgia Tech studying Industrial Engineering."
 
 
 #CHANGE BELOW
@@ -14,39 +14,38 @@ email_image_url = "https://logowik.com/content/uploads/images/513_email.jpg"
 #CHANGE BELOW
 my_linkedin_url = "https://www.linkedin.com/in/spongebob-squarepants-44b857281/"
 my_github_url = "https://github.com/spongebob-squarepants"
-my_email_address = "spongebob@gmail.com"
+my_email_address = "jparker373@gatech.edu"
 
 
 education_data ={
-    'Degree': 'Bachelor of Science in Computer Science',
+    'Degree': 'Bachelor of Industrial and Systems Engineering',
     'Institution': 'Georgia Institute of Technology',
     'Location': 'Atlanta, GA',
-    'Graduation Date': 'Never',
+    'Graduation Date': 'May 2030',
     'GPA': '4.0'
 }
 course_data = {
-    "code":["CS 1301", "CS 1331", "MATH 1554", "CS 2050"],
-    "names":["Intro to CS", "Intro to OOP", "Linear Algebra", "Discrete Mathematics"],
-    "semester_taken":["2nd", "3rd", "2nd", "2nd"],
-    "skills":["Python is not my favorite snake anymore", "OOP(S!) (Java Edition)", "Basically row reduction", "If only my grade was discrete too..."],
+    "code":["CS 1301", "ACCT 2101", "MATH 1553", "GT 1000"],
+    "names":["Intro to CS", "Intro to Accounting", "Linear Algebra", "First Year Seminar"],
+    "semester_taken":["1st", "1st", "1st", "1st"],
+    "skills":["Coding in python", "Basic sccounting knowledge", "Basically row reduction", "Getting to know peers and campus"],
     }
 experience_data = {
-    "Cook at Krusty Krab": (["- Worked on designing the Krabby Patty Recipe",
-                                                                          "- Increased Company Revenue by 200 dollars", "- Made Mr. Krabs Proud"],"Images/cook.jpg"),
-    "Cleaner at Krusty Krab":(["- Made the floor almost reflective",
-                                                           "- Increased customer visits by three folds by making restaurant clean"],"Images/cleaner.jpg"),
-    "Jelly Fish Catcher":(["- Caught 100+ Jellyfish with the help of my colleague Patrick"],"Images/jelly.jpg")
+    "Lifeguard": (["- Worked as a lifeguard to keep my neighborhood pool safe",
+                                                                        "- Learned CPR"],"Images/cook.jpg"),
+    "Front Desk Sales Associate at Club Pilates":(["- Answered calls and in person requests",
+                                                           "- Sold memberships and helped increase revenue"],"Images/cleaner.jpg"),
 
 }
 
 projects_data = {
-    "Krabby Patty Recipe": "Created the famous Recipe and tailored it from scratch",
+    "More Love Letters Club Meeting": "Planned and led events for the More Love Letters Club as club president.",
 }
 
 programming_data = {
-    "Python": 90,
-    "Java": 70,
-    "C": 40,
+    "Python": 50,
+    "Java": 0,
+    "C": 0,
 }
 
 #CHANGE BELOW (OPTIONAL)
@@ -55,7 +54,7 @@ programming_icons = {
     "Java": "☕",
     "C": "🔍",
 }
-spoken_icons = {"French": "🇫🇷",
+spoken_icons = {
     "English": "🇬🇧",
     "Spanish":"🇪🇸"
 }
@@ -63,14 +62,13 @@ spoken_icons = {"French": "🇫🇷",
 #CHANGE BELOW
 spoken_data = {
     "English": "Fluent",
-    "French": "Fluent",
-    "Spanish": "Fluent",
+    "Spanish": "Proficient",
 }
 leadership_data = {
-    "Driver at Mrs Puff's School": (["- Elected Worst Student of the Century"],"Images/puff.jpg"),
+    "Captain of the Varsity Cheer Team": (["-Led the team to teach new cheers and make the school more hype"],"Images/puff.jpg"),
 
 }
 activity_data={
-    "SpongeBob and Patrick Friendship Club": ["- Conviced Squidwards to have fun",
-            "- Sat under Patrick's rock"]
+    "Lacrosse Team": ["- Played in regional lacrosse games with my friends!",
+            "- Great way to stay active and have fun!"]
 }
