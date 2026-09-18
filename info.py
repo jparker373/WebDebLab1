@@ -12,8 +12,8 @@ github_image_url = "https://cdn-icons-png.flaticon.com/256/25/25231.png"
 email_image_url = "https://logowik.com/content/uploads/images/513_email.jpg"
 
 #CHANGE BELOW
-my_linkedin_url = "https://www.linkedin.com/in/spongebob-squarepants-44b857281/"
-my_github_url = "https://github.com/spongebob-squarepants"
+my_linkedin_url = "https://www.linkedin.com"
+my_github_url = "https://github.com/jparker373"
 my_email_address = "jparker373@gatech.edu"
 
 
@@ -32,9 +32,9 @@ course_data = {
     }
 experience_data = {
     "Lifeguard": (["- Worked as a lifeguard to keep my neighborhood pool safe",
-                                                                        "- Learned CPR"],"Images/cook.jpg"),
+                                                                        "- Learned CPR"],"Images/lifeguard.png"),
     "Front Desk Sales Associate at Club Pilates":(["- Answered calls and in person requests",
-                                                           "- Sold memberships and helped increase revenue"],"Images/cleaner.jpg"),
+                                                           "- Sold memberships and helped increase revenue"],"Images/pilates.jpg"),
 
 }
 
@@ -65,10 +65,10 @@ spoken_data = {
     "Spanish": "Proficient",
 }
 leadership_data = {
-    "Captain of the Varsity Cheer Team": (["-Led the team to teach new cheers and make the school more hype"],"Images/puff.jpg"),
+    "Captain of the Varsity Cheer Team": (["-Led the team to teach new cheers and make the school more hype"],"Images/cheer.jpeg"),
 
 }
 activity_data={
-    "Lacrosse Team": ["- Played in regional lacrosse games with my friends!",
-            "- Great way to stay active and have fun!"]
+    "Church Volunteer": ["- Helped with childcare for parents who wanted to attend services",
+            "- Volunteered with the 2 year old classroom!"]
 }
